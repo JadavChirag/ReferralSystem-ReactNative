@@ -7,11 +7,11 @@ A referral system can be a great tool to get users to share your app with their 
 
 ![Screenshot](images/concept.png)
 <p>
-<img src="#" width = "300">
-<img src="#" alt="upload photo example"width = "300" >
+<img src="https://github.com/JadavChirag/ReferralSystem-ReactNative/blob/master/images/0.jpg" width = "300">
+<img src="https://github.com/JadavChirag/ReferralSystem-ReactNative/blob/master/images/1.jpg" width = "300" >
 
-<img src="#" width = "300">
-<img src="#" alt="upload photo example"width = "300" >
+<img src="https://github.com/JadavChirag/ReferralSystem-ReactNative/blob/master/images/2.jpg" width = "300">
+<img src="https://github.com/JadavChirag/ReferralSystem-ReactNative/blob/master/images/3.jpg" width = "300" >
 </p>
 
 
