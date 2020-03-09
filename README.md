@@ -1,4 +1,4 @@
-# ReferralSystem-ReactNative
+# Referral System in React Native
 Referral System Using Branch in React Native.
 
 A referral system can be a great tool to get users to share your app with their friends and get new users using your app. In this repo I will show you how to build a great referral system similar to Uber, AirBnB, and many other startups.
